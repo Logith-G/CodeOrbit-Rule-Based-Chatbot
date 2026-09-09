@@ -112,8 +112,8 @@ Rule-Based Chatbot / Python GUI Application
 
 ### Chatbot GUI
 
-![RuleBot GUI](screenshots/chatbot_gui.png)
+![RuleBot GUI](SCREENSHOTchatbot_gui.png)
 
 ### Chatbot Conversation
 
-![RuleBot Conversation](screenshots/chatbot_conversation.png)
+![RuleBot Conversation](SCREENSHOTchatbot_conversation.png)
