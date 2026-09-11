@@ -106,14 +106,12 @@ Developed as part of a Python internship project at Code Orbit.
 ## 📄 Project Type
 
 
-Rule-Based Chatbot / Python GUI Application
-
 ## 🖥️ Screenshots
 
 ### Chatbot GUI
 
-![RuleBot GUI](SCREENSHOTchatbot_gui.png)
+![RuleBot GUI](SCREENSHOT/chatbot_gui.png)
 
 ### Chatbot Conversation
 
-![RuleBot Conversation](SCREENSHOTchatbot_conversation.png)
+![RuleBot Conversation](SCREENSHOT/chatbot_conversation.png)
