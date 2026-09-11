@@ -114,4 +114,4 @@ Developed as part of a Python internship project at Code Orbit.
 
 ### Chatbot Conversation
 
-![RuleBot Conversation](SCREENSHOT/chatbot_conversation.png)
+![RuleBot Conversation](SCREENSHOT/Chatbot_conversation.png)
